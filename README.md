@@ -2,7 +2,7 @@
 * Back-End API for `They Elect` app
 * Makes calls to the `OpenFEC API`
 * Currently hosted with: `Heroku`
-* Front-End of application built with React, can be found here: 
+* Front-End of application built with React, can be found here: [They Elect](https://github.com/krtb/they-elect)
 
 ## Prerequisites prior to installation
 * Have `NPM` installed
